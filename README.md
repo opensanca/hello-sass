@@ -11,8 +11,7 @@ Noção sobre HTML e CSS
 ### Público-alvo: 
 Front-end Developer, Engineer Front-end, Web Designer e pessoas que possuem interesse em escrever CSS de forma escalar e manutenível.
 
-### Carga Horária:
-04 hrs
+### Carga Horária: ~08 hrs
 
 ### Ementa:
 - Arquitetura de front-end e desenvolvimento ágil
@@ -36,7 +35,7 @@ Front-end Developer, Engineer Front-end, Web Designer e pessoas que possuem inte
 -  CSS3 com Compass
 -  Preparando o CSS para produção
 
-### Extras
+### Extras:
 - Arquitetura de CSS
 - Definindo estrutura base e grid
 - Estruturando a aplicação em módulos
@@ -47,7 +46,7 @@ Front-end Developer, Engineer Front-end, Web Designer e pessoas que possuem inte
 - Otimizando a performance com sprites e imagens inline
 - Desacoplando o CSS do JavaScript
 
-### Help / Others: 
+### Helpers / Others: 
 - [Guide Sass - pt-br](https://sass-guidelin.es/pt/#sobre-sass)
 - [Curso de Sass da WebSchool-io](https://github.com/Webschool-io/Curso-CSS-SASS) 
 - [Curso de OOCSS do Eduardo Shiota](http://howtocode.com.br/cursos/css)
