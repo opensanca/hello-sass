@@ -30,7 +30,7 @@ Front-end Developer, Engineer Front-end, Web Designer e pessoas que possuem inte
 - Trabalhando com mixins e funções
 
 ### Compass:
--  Criando um projeto com [Compass](http://compass-style.org/)
+-  Criando um projeto com Compass
 -  Utilidades do Compass
 -  CSS3 com Compass
 -  Preparando o CSS para produção
