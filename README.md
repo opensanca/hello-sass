@@ -30,7 +30,6 @@ Escrever CSS deixou de ser uma tarefa simples. Atualmente os projetos são maior
 -  Preparando o CSS para produção
 
 ### Extras
-
 - Arquitetura de CSS
 - Definindo estrutura base e grid
 - Estruturando a aplicação em módulos
@@ -41,7 +40,13 @@ Escrever CSS deixou de ser uma tarefa simples. Atualmente os projetos são maior
 - Otimizando a performance com sprites e imagens inline
 - Desacoplando o CSS do JavaScript
 
-Essa ementa foi baseada nos projetos da [Loiane Groner](https://github.com/loiane/curso-css3-sass-compass) e [Eduardo Shiota](http://howtocode.com.br/cursos/css)
+### Help / Others: 
+[Guide Sass - pt-br](https://sass-guidelin.es/pt/#sobre-sass)
+[Curso de Sass da WebSchool-io](https://github.com/Webschool-io/Curso-CSS-SASS) 
+[Curso de OOCSS do Eduardo Shiota](http://howtocode.com.br/cursos/css)
+[Curso de Sass da Loiane Groner](http://loiane.com/2012/03/curso-online-css3-com-sass-e-compass-gratuito/)
+
+
 
 #License
 MIT @Opensanca
