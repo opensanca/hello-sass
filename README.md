@@ -1,6 +1,6 @@
 ![Vamos aprender Sass](http://media02.hongkiat.com/getting-started-saas/sass-getting-started.jpg)
 
-# Workshop - Hello Sass!
+# Workshop - Hello [Sass!](http://sass-lang.com/)
 
 ### Proposta: 
 Escrever CSS deixou de ser uma tarefa simples. Atualmente os projetos são maiores e mais complexos, e isso exige muito mais organização. Saber como separar logicamente o CSS é essencial. Nesse workshop você verá como aplicar algumas técnicas e conhecer ferramentas que auxiliam nessa tarefa.
@@ -30,7 +30,7 @@ Front-end Developer, Engineer Front-end, Web Designer e pessoas que possuem inte
 - Trabalhando com mixins e funções
 
 ### Compass:
--  Criando um projeto com Compass
+-  Criando um projeto com [Compass](http://compass-style.org/)
 -  Utilidades do Compass
 -  CSS3 com Compass
 -  Preparando o CSS para produção
