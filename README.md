@@ -56,4 +56,4 @@ Front-end Developer, Engineer Front-end, Web Designer e pessoas que possuem inte
 - [Livro - Sass & Compass @Maujor](http://www.novatec.com.br/livros/fundamentos-sass-compass/)
 
 #License
-MIT @[Opensanca](asasa)
+MIT | [Opensanca](https://github.com/opensanca/hello-sass/blob/master/LICENSE.md)
