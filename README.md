@@ -1,9 +1,13 @@
 ![Vamos aprender Sass](http://media02.hongkiat.com/getting-started-saas/sass-getting-started.jpg)
 
-# Workshop - Hello Sass
+# Workshop - Hello Sass & Compass!
 
 ### Proposta: 
 Escrever CSS deixou de ser uma tarefa simples. Atualmente os projetos são maiores e mais complexos, e isso exige muito mais organização. Saber como separar logicamente o CSS é essencial. Nesse workshop você verá como aplicar algumas técnicas e conhecer ferramentas que auxiliam nessa tarefa.
+
+### Libraries
+- [Sass](http://sass-lang.com/)
+- [Compass](http://compass-style.org/)
 
 ### Pré-requisitos:
 Noção sobre HTML e CSS
@@ -54,9 +58,6 @@ Front-end Developer, Engineer Front-end, Web Designer e pessoas que possuem inte
 - [Livro - CSS Eficiente @Tácio Zemel](https://www.casadocodigo.com.br/products/livro-css-eficiente)
 - [Livro - Sass & Compass @Maujor](http://www.novatec.com.br/livros/fundamentos-sass-compass/)
  
-### Libs
-- [Sass](http://sass-lang.com/)
-- [Compass](http://compass-style.org/)
 
 #License
 MIT | [Opensanca 2016](https://github.com/opensanca/hello-sass/blob/master/LICENSE.md)
